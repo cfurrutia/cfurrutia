@@ -5,9 +5,9 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🌍 Soy de [Temuco, Chile]
+- 🌍 Soy de Temuco, Chile
 - 🎓 Actualmente estoy finalizando mi carrera de Ingeniería Civil Industrial
-- 🌱 Estoy aprendiendo [python, bases de datos y ciencia de datos]
+- 🌱 Estoy aprendiendo python, bases de datos y ciencia de datos
 - 💬 Pregúntame sobre Python, Análisis de Datos, o cualquier tema tecnológico
 ---
 
