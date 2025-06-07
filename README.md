@@ -6,7 +6,7 @@
 ### 👨‍💻 Sobre mí
 
 - 🌍 Soy de Temuco, Chile.
-- 🎓 Actualmente estoy finalizando mi carrera de Ingeniería Civil Industrial en la Universidad Católica de Temuco.
+- 🎓 Ingeniero Civil Industrial en fase final de titulación por la Universidad Católica de Temuco, con más de 6 años de experiencia en gestión comercial, atención al cliente, soporte           administrativo y análisis de datos. Con sólida trayectoria en servicios financieros, back office, control de producción y manejo de sistemas operativos. Apasionado por el                 desarrollo eficiente de procesos y la mejora continua.
 - 🌱 Estoy aprendiendo python, bases de datos y ciencia de datos.
 - 💬 Pregúntame sobre Python, Análisis de Datos, o cualquier tema tecnológico.
 
