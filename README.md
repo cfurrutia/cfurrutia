@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Carlos Urrutia Curiqueo</h1>
-<h3 align="center">Full Stack Python | Analista de Datos | Ingeniero Civil Industrial (en proceso de titulación)</h3>
+<h3 align="center">Full Stack Python | Analista de Datos | Ingeniero Civil Industrial</h3>
 
 ---
 
