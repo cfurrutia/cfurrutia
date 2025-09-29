@@ -33,7 +33,7 @@
 
 ### 📚 Educación
 
-- **Ingeniería Civil Industrial** - Universidad Católica de Temuco (Egresado, en proceso de titulación)
+- **Ingeniería Civil Industrial** - Universidad Católica de Temuco 
 - **Certificaciones**:
   - **SENCE**:
     - Gestión de proyectos con metodologías ágiles
